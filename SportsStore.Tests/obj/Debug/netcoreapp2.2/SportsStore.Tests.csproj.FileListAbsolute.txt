@@ -1,0 +1,4 @@
+C:\Users\linds\Desktop\ASP.NET coursework\LAB 1B - SportsStore A Real Application\SportsStore.Tests\obj\Debug\netcoreapp2.2\SportsStore.Tests.csprojAssemblyReference.cache
+C:\Users\linds\Desktop\ASP.NET coursework\LAB 1B - SportsStore A Real Application\SportsStore.Tests\obj\Debug\netcoreapp2.2\SportsStore.Tests.csproj.CoreCompileInputs.cache
+C:\Users\linds\Desktop\ASP.NET coursework\LAB 1B - SportsStore A Real Application\SportsStore.Tests\obj\Debug\netcoreapp2.2\SportsStore.Tests.AssemblyInfoInputs.cache
+C:\Users\linds\Desktop\ASP.NET coursework\LAB 1B - SportsStore A Real Application\SportsStore.Tests\obj\Debug\netcoreapp2.2\SportsStore.Tests.AssemblyInfo.cs
